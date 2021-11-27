@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CRUD/lib/protobuf-java-3.11.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CRUD/lib/protobuf-java-3.11.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CRUD/lib/mysql-connector-java-8.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CRUD/lib/protobuf-java-3.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CRUD/lib/mysql-connector-java-8.0.26.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CRUD/lib/mysql-connector-java-8.0.26-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
